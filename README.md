@@ -17,19 +17,19 @@ This assignment consists of several image processing tasks, including filtering,
 
 ## Tasks
 1. **Binary Mask and Filters**:
-   - Create a binary mask for the region of interest (ROI) and apply low-pass filters (Gaussian and Average) and high-pass filters (Laplacian and Prewitt) using MATLAB.
+   - Created a binary mask for the region of interest (ROI) and applied low-pass filters (Gaussian and Average) and high-pass filters (Laplacian and Prewitt) using MATLAB.
    
 2. **Dithering Algorithms**:
-   - Implement and compare the Floyd-Steinberg and Jarvis-Judice-Ninke dithering algorithms using Python.
+   - Implemented and compared the Floyd-Steinberg and Jarvis-Judice-Ninke dithering algorithms using Python.
 
 3. **Kuwahara Filter**:
-   - Explain the Kuwahara filter and apply it to an image to demonstrate its effect using Python.
+   - Explained the Kuwahara filter and applied it to an image to demonstrate its effect using Python.
 
 4. **Fourier Transform and Filtering**:
-   - Apply the Fourier Transform to an image and implement Butterworth and Gaussian filters in MATLAB or Python.
+   - Applied the Fourier Transform to an image and implemented Butterworth and Gaussian filters in MATLAB or Python.
 
 5. **Quantization**:
-   - Take an image and quantize it to 32 grayscale levels using only the `imresize` function in MATLAB, and write down the steps followed.
+   - Took an image and quantized it to 32 grayscale levels using only the `imresize` function in MATLAB, and provided the steps followed.
 
 ## Requirements
 - **MATLAB** and **Python 3.x**
@@ -65,11 +65,11 @@ This assignment consists of several image processing tasks, including filtering,
     ```
 
 ## Files
-- **Question1.pdf**: MATLAB Live Script for creating binary masks and applying filters.
+- **Question1.pdf**: MATLAB Script for creating binary masks and applying filters.
 - **Question2.py and Question2_Comparision.pdf**: Python script for dithering algorithms comparison.
-- **Question3.py and Question3_Explanation.pdf**: MATLAB Live Script demonstrating the Kuwahara filter.
-- **Question4.py**: MATLAB Live Script applying Fourier Transform and filters.
-- **Question5.pdf**: MATLAB Live Script for 32 grayscale level quantization.
+- **Question3.py and Question3_Explanation.pdf**: MATLAB Script demonstrating the Kuwahara filter.
+- **Question4.py**: Python Script applying Fourier Transform and filters.
+- **Question5.pdf**: MATLAB Script for 32 grayscale level quantization.
 
 ## Results
 The results for each task, including image outputs and processing steps, are stored in their respective Matlab and Python files. Each script includes visualizations of the transformations applied to the images.
